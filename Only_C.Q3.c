@@ -6,6 +6,7 @@ Welcome to GDB Online.
   Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
+//soma de números
 #include <stdio.h>
 
 int main() {
