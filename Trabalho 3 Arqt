@@ -134,15 +134,15 @@
 <body>
 
     <header>
-        <h1>Anime World</h1>
-        <p>Site simples sobre animes</p>
+        <h1>Anime Showcase</h1>
+        <p>Site de anime para betinhas</p>
     </header>
 
     <div class="conteudo">
 
         <h2>Anime em destaque</h2>
 
-        <img class="anime-img" src="https://upload.wikimedia.org/wikipedia/en/6/65/Goku_dragon_ball.png" alt="Goku">
+        <img class="anime-img" src="https://imgs.search.brave.com/0KDF5hq75-dCGnKSE1IL5ZbziU5oDWeRYKdmQ4GWj0k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnJl/ZGQuaXQvcnhmYm43/M25zNHJkMS5wbmc" alt="Goku">
 
         <br>
 
